@@ -8,14 +8,14 @@ const Navigation = () => {
   return (
     <nav className="bg-background border-b border-border sticky top-0 z-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16 sm:h-20">
+        <div className="flex justify-between items-center h-20 sm:h-24">
           {/* Logo */}
           <div className="flex-shrink-0">
             <a href="#" className="flex items-center">
               <img
                 src="/MIDDLE.png"
                 alt="Middle logo"
-                className="h-14 w-auto sm:h-16"
+                className="h-16 w-auto sm:h-20"
                 loading="eager"
                 decoding="async"
               />
