@@ -13,9 +13,9 @@ const Navigation = () => {
           <div className="flex-shrink-0">
             <a href="#" className="flex items-center">
               <img
-                src="/lovable-uploads/554ee886-19dd-4098-88ed-0a60dd7de901.png"
+                src="/MIDDLE.png"
                 alt="Middle logo"
-                className="h-8 w-auto sm:h-10"
+                className="h-12 w-auto sm:h-14"
                 loading="eager"
                 decoding="async"
               />
